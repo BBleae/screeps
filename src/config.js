@@ -26,7 +26,7 @@ global.config = {
     showRoomPaths: false,
     showCreepPaths: false,
     showPathSearches: false,
-    showStructures: false,
+    showStructures: true,
     showCreeps: false,
     showBlockers: false,
     showCostMatrixes: false,
